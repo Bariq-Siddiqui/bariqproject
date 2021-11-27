@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "client_server",
   "version": "1.0.0",
   "main": "app.js",
@@ -21,3 +20,5 @@
     "path": "^0.12.7"
   }
 }
+
+
